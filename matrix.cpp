@@ -19,7 +19,7 @@ int main(void)
 	system("pause");
 	return 0;
 }
-
+//123
 void random_walk(int(*a)[COLS], int rows) /// this function assign values to 2d array
 {
 	for (int r = 0; r < rows; r++)
